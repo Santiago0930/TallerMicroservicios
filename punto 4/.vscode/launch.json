@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ConfigServerApplication<config-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.config_server.ConfigServerApplication",
+            "projectName": "config-server",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-JavierusecheaJsebastiangaleanoSantiagoguerrerodApplication<javierusechea-jsebastiangaleano-santiagoguerrerod>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.microservicios.javierusechea_jsebastiangaleano_santiagoguerrerod.JavierusecheaJsebastiangaleanoSantiagoguerrerodApplication",
+            "projectName": "javierusechea-jsebastiangaleano-santiagoguerrerod",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
