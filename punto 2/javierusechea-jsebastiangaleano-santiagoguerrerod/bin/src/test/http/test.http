@@ -1,0 +1,4 @@
+GET http://localhost:8080/myservice/nombre/javierusechea
+
+
+GET http://localhost:8080/actuator/info

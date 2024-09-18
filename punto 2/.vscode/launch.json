@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EurekaServerApplication<eureka-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.eureka_server.EurekaServerApplication",
+            "projectName": "eureka-server",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-JavierusecheaJsebastiangaleanoSantiagoguerrerodApplication<javierusechea-jsebastiangaleano-santiagoguerrerod>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.microservicios.javierusechea_jsebastiangaleano_santiagoguerrerod.JavierusecheaJsebastiangaleanoSantiagoguerrerodApplication",
+            "projectName": "javierusechea-jsebastiangaleano-santiagoguerrerod",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
